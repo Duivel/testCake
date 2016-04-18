@@ -26,7 +26,7 @@ class UsersTable extends AppTable {
 	
 	/**
 	 * Initialize column name for the custom type
-	 * {@inheritDoc}
+	 * {@inheritDoc} Quan
 	 * @see \Cake\ORM\Table::_initializeSchema()
 	 */
 	public function _initializeSchema(Schema $table) {
